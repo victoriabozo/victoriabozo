@@ -1,4 +1,4 @@
-## 👋 Hi, I’m a QA Engineer
+## 👋 Hi, I’m a QA Engineer ⚙️🐛
 
 I work on manual and automated testing for web and mobile apps using Python, Selenium, Postman, SQL, and Android Studio. I focus on bug detection, clear documentation, and strong user experiences —powered by a background in translation, screenwriting and proofreading.
  
