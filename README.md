@@ -1,8 +1,8 @@
 ### Hi, I’m Victoria!<br/>
 🪲 QA Engineer specializing in manual and automated testing for web and mobile apps.<br/>
-★ Focus on bug detection, clear documentation, and delivering strong user experiences.<br/>
+• Focus on bug detection, clear documentation, and delivering strong user experiences.<br/>
 🪲 Powered by a background in translation, screenwriting, and proofreading.<br/>
-★ Open to QA collaborations and tech content projects.<br/> 
+• Open to QA collaborations and tech content projects.<br/> 
 🪲 Reach me via [LinkedIn](https://www.linkedin.com/in/victoriabozo)<br/>
 
 ### 💻 Tech Stack<br/>
