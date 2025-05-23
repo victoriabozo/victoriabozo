@@ -1,4 +1,5 @@
-### Hi, I’m Victoria!<br/>
+### Hi, I’m Victoria! ![212284158-e840e285-664b-44d7-b79b-e264b5e54825](https://github.com/user-attachments/assets/331e552b-064c-4353-b3ae-82bb15b54ec8)
+
 🪲 QA Engineer specializing in manual and automated testing for web and mobile apps.<br/>
 • Focus on bug detection, clear documentation, and delivering strong user experiences.<br/>
 🪲 Powered by a background in translation, screenwriting, and proofreading.<br/>
