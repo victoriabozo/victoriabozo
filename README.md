@@ -1,8 +1,8 @@
 ### Hi, I’m Victoria! <br/>
-🪲 Screenwriter turned QA Engineer | Web & mobile testing
-• Detecting bugs early, ensuring reliable software and smooth user experiences.
-• Experience in translation, screenwriting, and proofreading strengthens my precision and eye for detail.
-• Open to QA collaborations & tech content.
+🪲 Screenwriter turned QA Engineer | Web & mobile testing <br/>
+• Detecting bugs early, ensuring reliable software and smooth user experiences. <br/>
+• Experience in translation, screenwriting, and proofreading strengthens my precision and eye for detail. <br/>
+• Open to QA collaborations & tech content. <br/>
 🪲 Connect: [LinkedIn](https://www.linkedin.com/in/victoriabozo)<br/>
 
 ### 💻 Tech Stack<br/>
